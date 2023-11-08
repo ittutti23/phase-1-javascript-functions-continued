@@ -1,1 +1,4 @@
-// code your solution here
+function saturdayFun() {
+    console.log("You've been razzled!");
+  }
+ 
